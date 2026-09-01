@@ -1,0 +1,74 @@
+IMAGE: 01_heritage_curd.pdf
+source file: C:\Users\Roshan Sivakumar\trace-app\eval_images\01_heritage_curd.pdf
+run: 2026-08-30T14:28:52   llm=off
+
+quality_passed : True
+clarity        : 67.8%
+exposure       : 22.1%  (overexposed)
+size           : 1600x1338
+quality_reasons: []
+
+VERDICT        : REVIEW
+ocr_source     : paddleocr
+
+FIELDS
+  * manufacturer       [PASS    conf=0.56]  HERITAGE FOODS LTD, Ju Hilis, Hyderabad-500 033 Teiangana, Wabsite: www.heritage
+  * generic_name       [PASS    conf=0.79]  Just honest curd,
+  * net_quantity       [REVIEW  conf=0.0]  None
+  * mrp                [REVIEW  conf=0.0]  None
+  * mfg_date           [REVIEW  conf=0.0]  None
+  * consumer_care      [PASS    conf=0.56]  Servings/ackc, mall: customercare@her.tagefouds.in
+    country_of_origin  [PASS    conf=0.0]  None
+    fssai_license      [PASS    conf=0.88]  10014047000258
+
+VIOLATIONS
+  (none)
+
+FONT WARNINGS
+  (none)
+
+RAW OCR TEXT
+----------------------------------------
+Honest Curd;
+Made with Care
+Please
+Marketed By: HERITAGE FOODS LTD.,
+Ju Hilis, Hyderabad-500 033 Teiangana,
+Wabsite: www.heritagefocds.in
+fssai
+Lic. No. 10014047000258
+there's care
+With the care you give your family,
+Cultures.
+we gently set pure milk for a pertectly
+Made from Toned Milk
+balanced sweet &sour tasts.
+No added preservatives.
+58.0 Kcal (1.5%), Protein 3
+100 g (%) RDA* Energy
+Just honest curd,
+Added Sugar 0.0 g (0), Total Fat 3.0 g (2.2%), Saturated
+made with
+2.0 g (4.5%), Trans Fat 0.0 g (0), Cholesterol 12 mg
+care.
+Calcium 126 mg (6.3%), Sodium 45 mg (1.1%)
+(RDA) calculated on the basis of 2000 kcal
+your calorianeeds.
+a may be higher or lower depending on
+SERVING SIZE: 50g
+Scan Here
+Net Ohantity:
+To Check Purity Repert
+a
+See on
+(cci. of an taxes)
+Main Panel
+Unit Sale Pre
+Lot No.:
+Use By Cte:
+Servings/ackc
+mall: customercare@her.tagefouds.in
+ORE UNDER REFRIGERATION BELOW 5C
+rictly avoid liering and dispose of es pck
+pording to local waste guidelines
+8190408911993159

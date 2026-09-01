@@ -1,0 +1,158 @@
+IMAGE: 02_savorit_vermicelli.pdf
+source file: C:\Users\Roshan Sivakumar\trace-app\eval_images\02_savorit_vermicelli.pdf
+run: 2026-08-30T14:31:10   llm=off
+
+quality_passed : True
+clarity        : 100.0%
+exposure       : 0.0%  (normal)
+size           : 1600x1454
+quality_reasons: []
+
+VERDICT        : REVIEW
+ocr_source     : paddleocr
+
+FIELDS
+  * manufacturer       [PASS    conf=0.67]  (A) NAGA LIMITED, Consumer Division Unit-1, DURUM WHEAT SEMOLINA, No.131. Trichy
+  * generic_name       [PASS    conf=0.8]  VERMICELLI
+  * net_quantity       [REVIEW  conf=0.0]  None
+  * mrp                [REVIEW  conf=0.34]  111
+  * mfg_date           [REVIEW  conf=0.0]  None
+  * consumer_care      [PASS    conf=0.62]  Executive, OFINDIA, Email: info@nagamills.com, www.nagamills.com, BSIL, (Or)Writ
+    country_of_origin  [PASS    conf=0.0]  None
+    fssai_license      [PASS    conf=0.85]  10013042001009
+
+VIOLATIONS
+  (none)
+
+FONT WARNINGS
+  (none)
+
+RAW OCR TEXT
+----------------------------------------
+ERMIN
+SAVORIT
+GEuL
+VERMICELLI
+PROPRIETA
+sesOé3Psn
+TThe Fin
+of the Batch code
+unn1 enu21a
+Sabe50
+Manufactured &Packed by.
+(A) NAGA LIMITED,
+Ingredient:
+Consumer Division Unit-1
+TRINIONAL INFORMATION
+DURUM WHEAT SEMOLINA
+No.131. Trichy Road,
+mil Nadu, India.
+Serveng- per park
+2.5
+Dindig n-624005,
+Allergen advice:
+Serving size(g)
+10
+Lic.No:10013042001009
+Contains wheat gluten
+fssai
+SRO
+Calories (Kcal)
+oerve
+P-100
+Storage Instruction
+Total Fat (g)
+295
+369
+Store in a cool and
+Saturated fat
+080
+1.0
+1.2
+dry place. Once opened,
+(B) NAGA LIMITED,
+Trans fat
+Cholesterol (mg)
+C
+transfer the contents to
+Consumer Division Unit-2
+Total carbohydrates (g)
+0
+Dietary fiber (g)
+an air tight container.
+No 1, Padiyur Road Puthupatti. Padiyur Pos
+0
+Total sugar (g)
+63.2
+MRSMAN CERTTIPCTION
+Vedasandur Taluk, Dindigul, TamiNadu-624
+includes 0 g of added sugar
+2.4
+79
+49
+0
+Protein (g)
+3.0
+kn
+fssaiLic.No:12421999000536
+Sofium (ma)
+8.8
+3.2
+11
+Marketed by
+Pota.
+m(mg)
+16
+132
+4
+NAGA LIMITED,
+tron(mg,
+0.16
+24
+165
+3.77
+d
+Consumer Division Unit-2
+ntributes
+2000 koal energy
+3
+10
+ad Puthupatt. Padiyur Po
+Padiyur
+sandur Taluk digul Tami Nade6
+LicNo:12421999000
+7211400
+Issai
+UGAA
+u
+FOR SUGGESTION & FEEDBACK
+PRODUCT
+728
+Contact Our Customer Care Executive
+OFINDIA
+1800102 0831
+0.00
+Email: info@nagamills.com
+3
+www.nagamills.com
+BSIL
+1961
+70311
+(Or)Write to us at above marketed address
+っ
+Follow us on:
+nc aes)
+itie
+/Nagafoodsofficial
+ate Mfg
+atc No
+Use by
+SCAN& SHOP
+MRP
+111
+OUR ESTORE
+naga
+taste
+SCAN& SUBSCRIBE
+YOUTUBECHANNEL
+Ltd Unit-1

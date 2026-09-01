@@ -1,0 +1,6 @@
+trace.db
+trace.db-wal
+trace.db-shm
+uploads/
+__pycache__/
+*.pyc

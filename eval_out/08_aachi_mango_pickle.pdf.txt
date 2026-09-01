@@ -1,0 +1,114 @@
+IMAGE: 08_aachi_mango_pickle.pdf
+source file: C:\Users\Roshan Sivakumar\trace-app\eval_images\08_aachi_mango_pickle.pdf
+run: 2026-08-30T14:38:57   llm=off
+
+quality_passed : True
+clarity        : 100.0%
+exposure       : 0.0%  (normal)
+size           : 1268x1600
+quality_reasons: []
+
+VERDICT        : REVIEW
+ocr_source     : paddleocr
+
+FIELDS
+  * manufacturer       [PASS    conf=0.6]  Licensed user of Registered, Trade Mark and Customer Care Address, Aachi Masala 
+  * generic_name       [REVIEW  conf=0.5]  KEEP CITY
+  * net_quantity       [REVIEW  conf=0.0]  None
+  * mrp                [PASS    conf=0.68]  10.00
+  * mfg_date           [REVIEW  conf=0.5]  APR 2027
+  * consumer_care      [PASS    conf=0.6]  Address, Aachi Masala Foods (P) Ltd., No.1926, 34th Street, I Block, Ishwarya Co
+    country_of_origin  [PASS    conf=0.68]  INDIA
+    fssai_license      [PASS    conf=0.88]  12415023000343
+
+VIOLATIONS
+  (none)
+
+FONT WARNINGS
+  (none)
+
+RAW OCR TEXT
+----------------------------------------
+he Mother of Good Tas
+GREDENT:M P (82,V
+DIS
+Oil - Refined Rice Bran Oil, Salt, Red Chilli powder,
+Musard,Compounded Asaoeda,Trmer pder
+Dmm&mm
+an Acdity Regulators - (INS 260 & INS 330).
+NUTRITIONAL INFORMATION (Approx.)
+Serving Size (g)
+5
+CONTAINS PERMITTED CLASS II PRESERVATIVE INS 211
+No. of Serving
+10
+ALLERGEN A 'ICE: Contains Mustard and Wheat
+Per 100g %RDA**
+Energy (kcal)
+140.4
+0.4
+Marketed by Licensed user of Registered
+Protein (g)
+1.3
+Trade Mark and Customer Care Address:
+Carbohydrate (g)
+14.0
+Aachi Masala Foods (P) Ltd., No.1926,
+Total Sugars (g)
+3.2
+34th Street, I Block, Ishwarya Colony,
+Added Sugars (g)
+0
+0
+Anna Nagar West, Chennai - 600 040.
+Total Fat (g)
+8.8
+0.7
+For Feedback and Queries: Customer Care
+Saturated Fat (g)
+2.3
+0.5
+Ph.No.:+91-44-26185410/20
+"not more than
+Trans Fat (g)
+E-mail: customercare@aachigroup.com
+0
+0
+"not more than"
+www.aachigroup.com | Manufactured by:
+Cholesterol (mg)
+0
+Aachi Spices and Foods (P) Ltd.,
+Sodium (mg)
+KEEP CITY
+4854.0
+12.1
+No.28/2B, 2C, 2D, 3B, 3C, 34/1, 2, 9,
+CLEAN
+**Per serve Percentage (%) contribution to
+Recommended Dietary Allowance on the basis
+10, 11, 35/4, Panpakkam Village,
+fssai
+OTHER
+of 2000kcal energy for average adult per day.
+Gummidipoondi Block (R),
+Lic.No.12415023000343
+Thiruvallur - 601 206.
+Lic.No.12423999000475
+©AMFPL - IMITATION OF LABEL GRAPHICS IS A PUNISHABLE
+OFFENCE | Value Based Package | Use a clean dry spoon
+Refrigerate after Opening | Do not buy if pack is puffed or leaking.
+8906021128575
+The image shown on front of pack is only for illustration purpose
+and doesn't indicate the "TRUE NATURE" of this product.
+MADE IN INDIA
+#MRP₹/USP₹:₹10.00
+NET WEIGHT:
+BATCH NO.:
+(Incl. of all taxes)
+DATE OF MANUFACTURE:
+USE BY:
+EVZS
+MAY
+2026
+APR 2027

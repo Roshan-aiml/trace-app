@@ -1,0 +1,99 @@
+{
+  "_comment": "Answer key transcribed by reading the 8 label PDFs in eval_images/. Empty string = the declaration is not present / not legible on the photographed panel (a correct HOLD, not a pipeline miss). Items in _uncertain were not fully legible in the photo - verify against the physical pack before trusting the score.",
+  "_uncertain": {
+    "05_tata_salt.pdf": [
+      "fssai_license (Mkt-by FSSAI No. partly obscured by crumple)",
+      "consumer_care (toll-free number not fully legible)"
+    ],
+    "06_suji_coriander.pdf": [
+      "fssai_license (only first 8 digits legible)",
+      "mrp (rupee value obscured by plastic glare)"
+    ],
+    "07_amul_icecream.pdf": [
+      "mrp (dot-matrix, reads 195.00 but could be 185.00)"
+    ],
+    "08_aachi_mango_pickle.pdf": [
+      "net_quantity (dot-matrix, 50 g inferred from 10 x 5 g servings)"
+    ]
+  },
+  "01_heritage_curd.pdf": {
+    "manufacturer": "HERITAGE FOODS LTD., Jubilee Hills, Hyderabad, Telangana",
+    "generic_name": "Curd",
+    "net_quantity": "",
+    "mrp": "",
+    "mfg_date": "",
+    "consumer_care": "Heritage Consumer Care Cell TOLL FREE NO. 1-800-425-2931, customercare@heritagefoods.in",
+    "country_of_origin": "",
+    "fssai_license": "10014047000258"
+  },
+  "02_savorit_vermicelli.pdf": {
+    "manufacturer": "NAGA LIMITED, Consumer Division Unit-1, Trichy Road, Dindigul, Tamil Nadu",
+    "generic_name": "Vermicelli",
+    "net_quantity": "",
+    "mrp": "20.00",
+    "mfg_date": "16/07/2026",
+    "consumer_care": "Customer Care Executive 1800 102 0831, info@nagamills.com, www.nagamills.com",
+    "country_of_origin": "India",
+    "fssai_license": "10013042001009|12421999000538|12421999000536"
+  },
+  "03_bambino_vermicelli.pdf": {
+    "manufacturer": "BAMBINO PASTA FOOD INDUSTRIES PVT. LTD., Banjara Hills, Hyderabad",
+    "generic_name": "Vermicelli (Sevai/Semia)",
+    "net_quantity": "140 g",
+    "mrp": "16.00",
+    "mfg_date": "15/03/2026",
+    "consumer_care": "Consumer Services Cell, feedback@bambinopasta.com, +91-40-45118819, www.bambinopasta.in",
+    "country_of_origin": "",
+    "fssai_license": "10014047000301|10012022000392|10020042007009"
+  },
+  "04_nescafe_sunrise.pdf": {
+    "manufacturer": "NESTLE INDIA LIMITED, World Trade Centre, Barakhamba Lane, New Delhi",
+    "generic_name": "Instant Coffee - Chicory Mixture",
+    "net_quantity": "7.6 g",
+    "mrp": "10.00",
+    "mfg_date": "MAY 2026",
+    "consumer_care": "Nestle Consumer Care, P.O. Bag 2, New Delhi-110 001, WECARE.IN@IN.NESTLE.COM, 1800 103 1947",
+    "country_of_origin": "",
+    "fssai_license": "10012011000168|10012043000066"
+  },
+  "05_tata_salt.pdf": {
+    "manufacturer": "Tata Consumer Products Limited, Jawaharlal Nehru Road, Kolkata",
+    "generic_name": "Iodised Salt",
+    "net_quantity": "1 kg",
+    "mrp": "32.00",
+    "mfg_date": "JUN 2026",
+    "consumer_care": "Customer Care Executive, Tata Consumer Products Ltd., care@tataconsumer.com",
+    "country_of_origin": "",
+    "fssai_license": "10014031000101"
+  },
+  "06_suji_coriander.pdf": {
+    "manufacturer": "SUJITHA ENTERPRISES, Arokiya Madha Street, Pozhichalur, Chennai",
+    "generic_name": "Coriander Powder",
+    "net_quantity": "100 g",
+    "mrp": "30",
+    "mfg_date": "30/01/2026",
+    "consumer_care": "Customer Care: +91 9677046949, sujimasala@gmail.com, www.sujithaspices.in",
+    "country_of_origin": "India",
+    "fssai_license": "10019042000000"
+  },
+  "07_amul_icecream.pdf": {
+    "manufacturer": "Gujarat Co-operative Milk Marketing Federation Ltd., Amul Dairy Road, Anand, Gujarat",
+    "generic_name": "Ice Cream",
+    "net_quantity": "1 L / 540 g",
+    "mrp": "195.00",
+    "mfg_date": "28/MAR/2026",
+    "consumer_care": "Customer Care Executive 1800 258 3333 Toll free, customercare@amul.coop, GCMMF Ltd., Anand - 388001",
+    "country_of_origin": "",
+    "fssai_license": "10012021000071"
+  },
+  "08_aachi_mango_pickle.pdf": {
+    "manufacturer": "Aachi Masala Foods (P) Ltd., Anna Nagar West, Chennai",
+    "generic_name": "Mango Pickle",
+    "net_quantity": "50 g",
+    "mrp": "10.00",
+    "mfg_date": "MAY 2026",
+    "consumer_care": "Customer Care Ph.No.: +91-44-26185410 / 20, customercare@aachigroup.com, www.aachigroup.com",
+    "country_of_origin": "India",
+    "fssai_license": "12415023000343|12423999000475"
+  }
+}

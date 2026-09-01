@@ -1,0 +1,16 @@
+# TRACE — Legal Metrology label-compliance app
+# Extracted from TRACE_paddleocr_qwen.ipynb "Step 1 — Install dependencies" cell.
+# Original notebook install line:
+#   pip install streamlit==1.38.0 paddleocr paddlepaddle opencv-python-headless \
+#       groq reportlab python-dateutil pandas pillow
+
+streamlit==1.38.0
+paddleocr
+paddlepaddle
+opencv-python-headless
+groq
+reportlab
+python-dateutil
+pandas
+pillow
+numpy

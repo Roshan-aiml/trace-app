@@ -1,0 +1,7 @@
+# TRACE backend -- installed *on top of* the repo-root requirements.txt
+# (that one provides paddleocr / paddlepaddle / groq / reportlab, which the
+#  pipeline the backend imports still needs).
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+pydantic==2.10.4

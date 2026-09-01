@@ -1,0 +1,12 @@
+scoring eval_out/summary_before.csv vs eval_out/ground_truth.json
+
+field               tp  fp  fn       P     R    F1
+manufacturer         3   0   5    1.00  0.38  0.55
+generic_name         0   4   8    0.00  0.00   nan
+net_quantity         1   0   5    1.00  0.17  0.29
+mrp                  1   0   6    1.00  0.14  0.25
+mfg_date             0   0   7     nan  0.00   nan
+consumer_care        1   2   7    0.33  0.12  0.18
+country_of_origin    0   0   3     nan  0.00   nan
+fssai_license        1   0   7    1.00  0.12  0.22
+OVERALL              7   6  48    0.54  0.13 0.206

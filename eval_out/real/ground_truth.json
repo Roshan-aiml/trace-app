@@ -1,0 +1,143 @@
+{
+  "_comment": "Answer key hand-transcribed by viewing each photo in eval_images/real/. '' = declaration genuinely not on the photographed panel (a correct HOLD, not a pipeline miss). 'a|b' accepts either. Long fields score on token recall, so a shortened address is fine.",
+  "SAMPLE PRODUCT TRACE 2 - Copy.jpeg": {
+    "manufacturer": "ROSHAN ENTERPRISE, No.157, Annapillai Street, Chennai - 600 001",
+    "generic_name": "",
+    "net_quantity": "50 g",
+    "mrp": "32.00|32",
+    "mfg_date": "04/2026",
+    "consumer_care": "Mobile No.9381013342, Phone:044-25230287",
+    "country_of_origin": "India",
+    "fssai_license": "12417002002667"
+  },
+  "SAMPLE PRODUCT TRACE 3 - Copy.jpeg": {
+    "manufacturer": "BAMBINO PASTA FOOD PVT. LTD., Banjara Hills, Road No.10, Hyderabad",
+    "generic_name": "Vermicelli (Sevai/Semia)|Vermicelli",
+    "net_quantity": "850 g",
+    "mrp": "86.00",
+    "mfg_date": "18/04/2026",
+    "consumer_care": "feedback@bambinopasta.com, +91-40-4511810, www.bambinopasta.in",
+    "country_of_origin": "",
+    "fssai_license": "10014047000301|10012022000392|11423999000164|10020042007089"
+  },
+  "SAMPLE PRODUCT TRACE 4 - Copy.jpeg": {
+    "manufacturer": "SAKTHI MASALA (P) LTD., Mamarathupalayam, Erode - 638004, Tamil Nadu",
+    "generic_name": "Ragi Flour|Ragi ka Atta|Ragi",
+    "net_quantity": "500 g",
+    "mrp": "50.00",
+    "mfg_date": "JUL2026|JUL 2026|07/2026",
+    "consumer_care": "customercare@sakthimasala.co.in, Ph: (0424) 2533601, www.sakthimasala.com",
+    "country_of_origin": "India",
+    "fssai_license": "10012042000677"
+  },
+  "SAMPLE PRODUCT TRACE 10.jpeg": {
+    "manufacturer": "Ace Foods Private Limited, EPIP Industrial area, Ganjimutt, Mangalore, Dakshina Kannada, Karnataka-574144",
+    "generic_name": "Salted Potato Chips|Potato Chips",
+    "net_quantity": "",
+    "mrp": "50.00",
+    "mfg_date": "",
+    "consumer_care": "",
+    "country_of_origin": "India",
+    "fssai_license": "11229900000608|11229900000608"
+  },
+  "IMG-20260829-WA0028.jpg.jpeg": {
+    "manufacturer": "Honesta Food LLP, Survey No 9/2, Bheemnahalli Village, Bidadi Hobli, Ramanagara, Karnataka - 562109",
+    "generic_name": "Star Anise|Chakri Phool",
+    "net_quantity": "50 g",
+    "mrp": "130.00",
+    "mfg_date": "23/07/2026",
+    "consumer_care": "care@kiranakart.app, 1800 890 6530",
+    "country_of_origin": "India",
+    "fssai_license": "11523998001406"
+  },
+  "IMG-20260829-WA0029.jpg.jpeg": {
+    "manufacturer": "Kiranakart Technologies Pvt Ltd, Jogeshwari Vikhroli Link Road, Marol, Andheri East, Mumbai 400076, Maharashtra",
+    "generic_name": "Turmeric Powder",
+    "net_quantity": "200 g",
+    "mrp": "90.00",
+    "mfg_date": "24/03/2026",
+    "consumer_care": "care@kiranakart.app, 1800 890 6530",
+    "country_of_origin": "India",
+    "fssai_license": "11523998001406"
+  },
+  "IMG-20260829-WA0030.jpg.jpeg": {
+    "manufacturer": "Honesta Food LLP, Survey No 9/2, Bheemnahalli Village, Bidadi Hobli, Ramanagara, Karnataka - 562109",
+    "generic_name": "Mustard|Rai|Sarso",
+    "net_quantity": "100 g",
+    "mrp": "40.00",
+    "mfg_date": "26/08/2025",
+    "consumer_care": "care@kiranakart.app, 1800 890 6530",
+    "country_of_origin": "India",
+    "fssai_license": "11222332001390|11523998001406"
+  },
+  "IMG-20260829-WA0031.jpg.jpeg": {
+    "manufacturer": "Asquare Food & Beverages Pvt Ltd, Urla Industrial Area, Canal Linking Road, Gondwara, Ring Road No. 2, Raipur",
+    "generic_name": "Cumin Seeds|Jeera",
+    "net_quantity": "100 g",
+    "mrp": "65.00",
+    "mfg_date": "23/01/26|23/01/2026",
+    "consumer_care": "hello@zofffoods.com, www.zofffoods.com, 95848 220",
+    "country_of_origin": "",
+    "fssai_license": "10017037000283"
+  },
+  "IMG-20260829-WA0032.jpg.jpeg": {
+    "manufacturer": "MTR Foods, Bengaluru, Karnataka",
+    "generic_name": "Garam Masala|Masala|Masala Powder",
+    "net_quantity": "50 g",
+    "mrp": "55.00",
+    "mfg_date": "19.06.2025|19/06/2025",
+    "consumer_care": "feedback@mtrfoods.com, 1800-103-7455, www.mtrfoods.com",
+    "country_of_origin": "",
+    "fssai_license": "10012043000045"
+  },
+  "IMG-20260829-WA0033.jpg.jpeg": {
+    "manufacturer": "Everest Food Products Pvt. Ltd., L.B.S. Marg, Vikhroli (W), Mumbai - 400083",
+    "generic_name": "Red Chilli Powder|Kashmiri Lal|Lal Mirch Powder",
+    "net_quantity": "",
+    "mrp": "",
+    "mfg_date": "",
+    "consumer_care": "",
+    "country_of_origin": "",
+    "fssai_license": "10012022000526|10016021002125"
+  },
+  "IMG-20260829-WA0055.jpg.jpeg": {
+    "manufacturer": "Nestle India Ltd, World Trade Centre, Barakhamba Lane, New Delhi - 110 001",
+    "generic_name": "Masala|Mixed spices|Seasoning",
+    "net_quantity": "6 g",
+    "mrp": "5",
+    "mfg_date": "FEB/26|FEB 2026|02/2026",
+    "consumer_care": "WECARE@IN.NESTLE.COM, 1800 103 1947",
+    "country_of_origin": "",
+    "fssai_license": "10012011000168|10012025000032|10012043000066|10021021000783|10012062000021|10012012000182"
+  },
+  "IMG-20260829-WA0062.jpg.jpeg": {
+    "manufacturer": "BAMBINO PASTA FOOD INDUSTRIES PVT. LTD., Banjara Hills, Road No.10, Hyderabad 500034",
+    "generic_name": "Vermicelli (Sevai/Semia)|Vermicelli",
+    "net_quantity": "850 g",
+    "mrp": "86.00",
+    "mfg_date": "03/07/2026",
+    "consumer_care": "feedback@bambinopasta.com, +91-40-45118810, www.bambinopasta.in",
+    "country_of_origin": "",
+    "fssai_license": "10014047000301|10012022000392|11423999000164|10020042007089"
+  },
+  "IMG-20260829-WA0066.jpg.jpeg": {
+    "manufacturer": "GENERAL MILLS INDIA PVT. LTD., Hiranandani Business Park, Powai, Mumbai, Maharashtra 400076",
+    "generic_name": "Atta|Whole Wheat Atta|Chakki Fresh Atta",
+    "net_quantity": "1 kg",
+    "mrp": "70",
+    "mfg_date": "27/06/26|27/06/2026",
+    "consumer_care": "cs.india@genmills.com, 1800-111-789",
+    "country_of_origin": "",
+    "fssai_license": ""
+  },
+  "IMG_9433.PNG": {
+    "manufacturer": "HINDUSTAN COCA-COLA BEVERAGES PVT. LTD., Plot No. 6A, Sector 24, Hissar (Haryana) 125055",
+    "generic_name": "Carbonated Water|Carbonated Beverage|Soft Drink",
+    "net_quantity": "250 ml",
+    "mrp": "20.00",
+    "mfg_date": "",
+    "consumer_care": "",
+    "country_of_origin": "",
+    "fssai_license": "10012064000053"
+  }
+}

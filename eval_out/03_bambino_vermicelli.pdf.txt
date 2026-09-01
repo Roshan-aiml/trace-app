@@ -1,0 +1,146 @@
+IMAGE: 03_bambino_vermicelli.pdf
+source file: C:\Users\Roshan Sivakumar\trace-app\eval_images\03_bambino_vermicelli.pdf
+run: 2026-08-30T14:32:10   llm=off
+
+quality_passed : True
+clarity        : 49.1%
+exposure       : 0.0%  (normal)
+size           : 1416x1600
+quality_reasons: []
+
+VERDICT        : REVIEW
+ocr_source     : paddleocr
+
+FIELDS
+  * manufacturer       [PASS    conf=0.68]  Road, INO PASTA FOOD INDUSTRIES PVT. LTD, J. Hyderabad-500034 (TS)
+  * generic_name       [PASS    conf=0.76]  Vermicelli (Sevai/Semia)
+  * net_quantity       [PASS    conf=0.6]  140 g
+  * mrp                [PASS    conf=0.68]  16.00
+  * mfg_date           [REVIEW  conf=0.5]  15/03/2026
+  * consumer_care      [REVIEW  conf=0.5]  15/03/2026, fecuback@bambinopaara.com
+    country_of_origin  [PASS    conf=0.0]  None
+    fssai_license      [PASS    conf=0.0]  None
+
+VIOLATIONS
+  (none)
+
+FONT WARNINGS
+  (none)
+
+RAW OCR TEXT
+----------------------------------------
+NJTRITIONAL
+%RDA
+550
+ner
+100g
+Apprax.
+361kcal
+10.5g
+Energy
+Z7
+4
+UNTOUCHED BY HAND
+2g
+Protein
+0
+0g
+Carbohydrate
+0.8
+Office At & Marketed By:
+of which total sugars
+1g
+Road.
+Added sugar
+0.2g
+INO PASTA FOOD INDUSTRIES PVT. LTD.,
+8-2-610/68/1,2,3.A-Block
+0g
+Total Fat
+0
+J. Hyderabad-500034 (TS)
+Saturated Fatty acids
+0mg
+Trans Futty acids
+0mg
+000301
+Sodium
+2mg
+LicTa.:1001-04/0
+7.76
+Cholesterol
+2.4mg
+OR MFG. UNIT
+AND FSS JE.No., READ TH FIRST
+7.56
+Calcium
+1.65mg
+6.29
+Iron
+0.16mg
+6.53
+Zinc
+0.19mg
+508126,
+Vitamin B1
+6.75
+2.21mg
+Vitamin B2
+3.74
+13.6mcg
+Vitamin B3
+7.70
+0.14mcg
+Vitamin B9
+SESHSAYI
+Vitamin B12
+# C-10/3
+Guidelines - Daily intake of an average adult
+AGRO
+(based on 2000 kcal diet)
+FOOD INDUSTRIES
+MAHALAKS
+Jio
+BP Petrol pump.
+Product: Vermicelli (Sevai/Semia)
+Road, Post: Kalm
+Cpposite to
+Birgod,
+Dewas 455001 (MP)
+Tehsil: Tonk Khurd,
+PVT.
+LTD
+Taluk,
+SF No. 188/1B,
+Kakkadavu Post,
+Net Quantity
+140g
+Coimbato
+MRP Rs.
+FSSALic
+(incl. of all taxes)
+Rs.16.00
+R FEED BACK
+CONTACT: MANAGE
+USP Rs.
+0.11/g
+SERVICES CELL
+Batch No.
+D. OFFICE
+Mfd.
+R76C15A3
+NGANA.
+Use By
+15/03/2026
+:fecuback@bambinopaara.com
+BEST BEFORE TWENTY FOUR MONTHS
+14/03/2028
+FROM MANUFACTURE
+us at: www.bambinopasta.i
+(If st red in cool, dry and hygienic place)
+Recyclable mulilayered plastc laminae above 50 microa
+22
+eseaae ar
+OTHER
+428
+KEEPYOUR

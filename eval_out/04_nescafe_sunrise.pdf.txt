@@ -1,0 +1,91 @@
+IMAGE: 04_nescafe_sunrise.pdf
+source file: C:\Users\Roshan Sivakumar\trace-app\eval_images\04_nescafe_sunrise.pdf
+run: 2026-08-30T14:33:15   llm=off
+
+quality_passed : True
+clarity        : 100.0%
+exposure       : 0.0%  (normal)
+size           : 1009x1600
+quality_reasons: []
+
+VERDICT        : REVIEW
+ocr_source     : paddleocr
+
+FIELDS
+  * manufacturer       [PASS    conf=0.59]  NESTL INA, made from blends ofeand, MITE.10/ 101, WORLD, TRADE CENTRE, BARAKHAMB
+  * generic_name       [REVIEW  conf=0.5]  Dispose Responsibly
+  * net_quantity       [REVIEW  conf=0.0]  None
+  * mrp                [REVIEW  conf=0.33]  10.00
+  * mfg_date           [REVIEW  conf=0.0]  None
+  * consumer_care      [REVIEW  conf=0.5]  1800103947
+    country_of_origin  [PASS    conf=0.0]  None
+    fssai_license      [PASS    conf=0.0]  None
+
+VIOLATIONS
+  (none)
+
+FONT WARNINGS
+  (none)
+
+RAW OCR TEXT
+----------------------------------------
+NE INDIA TD. B0-13-000-0XAAACN0757G-22
+START YOUR DAY BRIGHT! with hadpic
+b
+ROASTED to develop be perfed
+aroma,
+which is retained using our
+Ingredients
+Nestle Gord Food. Good Life
+COFFEE BEANS (60%) & CHICORY.
+Dispose Responsibly
+A
+MAY27
+Preparation
+公
+P12SSISE
+ga+20mwater0
+OTHER
+Storage Advice
+22
+Let's Talk
+en
+1
+NESTLÉ CONSUMER CARE
+Always use dry spoon.
+62
+ONCE OPENED, TRANSFER
+21
+P.O.BAG? NEWDELHI-110001
+CONTENTS IMMEDIATELY INTO AN
+WBY
+WECAREN.NESTLE.COM
+AIR-TIGHT CONTAINER.
+HH
+1800103947
+Insture
+1
+Marketed by: NESTL INA
+made from blends ofeand
+MITE.10/ 101, WORLD
+TRADE CENTRE, BARAKHAMBA
+%
+6
+LANE, NEW DÉLHI - 110 01.
+Mfg by vestlé ndia
+MRP10.00(nd.of altaxes)
+Idutrial Area, Naanud
+e (Kamataka) -571302
+NETQUANTITY-MFD.-USEBY:
+No.10012043000066
+See side for:
+Lot No.:
+4486404/L10013756.001/00
+Brand Owner: ®Registered
+Trademark of Socé Ds
+Produits Nestlé S.A, Avenue
+Nestlé 55, 1800 Vevey,
+Switzerland.
+fssai
+J.No.10012011000168
+8901058025095

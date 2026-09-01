@@ -1,0 +1,74 @@
+IMAGE: 06_suji_coriander.pdf
+source file: C:\Users\Roshan Sivakumar\trace-app\eval_images\06_suji_coriander.pdf
+run: 2026-08-30T14:35:52   llm=off
+
+quality_passed : True
+clarity        : 79.0%
+exposure       : 0.0%  (normal)
+size           : 1355x1600
+quality_reasons: []
+
+VERDICT        : REVIEW
+ocr_source     : paddleocr
+
+FIELDS
+  * manufacturer       [REVIEW  conf=0.0]  None
+  * generic_name       [REVIEW  conf=0.54]  (In.l.dal taxes)
+  * net_quantity       [PASS    conf=0.63]  100 g
+  * mrp                [REVIEW  conf=0.33]  6
+  * mfg_date           [REVIEW  conf=0.0]  None
+  * consumer_care      [REVIEW  conf=0.0]  None
+    country_of_origin  [PASS    conf=0.0]  None
+    fssai_license      [PASS    conf=0.0]  None
+
+VIOLATIONS
+  (none)
+
+FONT WARNINGS
+  (none)
+
+RAW OCR TEXT
+----------------------------------------
+weoa
+TPaan
+oej!
+NUTRITIONAL
+Per 00g of this Products
+9
+Energy
+FACTS
+Prote
+(Approx.)
+Carbohydrates
+287 Koal
+13.5 g
+Qage
+Fat
+22g
+15g
+8
+Bat No.
+Photograp!shown on
+this
+suggestion aly and not
+pa
+Packed on
+the cont
+Store under cool and dry Place
+ant 
+Make
+Sua nt
+(In.l.dal taxes)
+M.R.P.
+Ssto 6
+a
+TYY
+eb e
+fssai
+Net Wt.
+100g
+Lic. No.10019042
+PRODUCT OF INI
+KEEFYOUR CITY
+SAVE WATER
+89061435215371

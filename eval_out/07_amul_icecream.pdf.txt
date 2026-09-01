@@ -1,0 +1,92 @@
+IMAGE: 07_amul_icecream.pdf
+source file: C:\Users\Roshan Sivakumar\trace-app\eval_images\07_amul_icecream.pdf
+run: 2026-08-30T14:37:11   llm=off
+
+quality_passed : True
+clarity        : 100.0%
+exposure       : 0.0%  (normal)
+size           : 1600x1080
+quality_reasons: []
+
+VERDICT        : REVIEW
+ocr_source     : paddleocr
+
+FIELDS
+  * manufacturer       [REVIEW  conf=0.52]  Gujarat Co-operative Milk Marketing Federation Ltd., Amul, Dairy Road, Anand, Gu
+  * generic_name       [PASS    conf=0.78]  Real Milk. Real Ice Cream
+  * net_quantity       [PASS    conf=0.68]  1 L
+  * mrp                [REVIEW  conf=0.0]  None
+  * mfg_date           [REVIEW  conf=0.0]  None
+  * consumer_care      [REVIEW  conf=0.52]  Executive at, 1800 258 3333 (Toll free) [6 AM - 9 PM], customercare@amul.coop, G
+    country_of_origin  [PASS    conf=0.0]  None
+    fssai_license      [PASS    conf=0.88]  10012021000071
+
+VIOLATIONS
+  (none)
+
+FONT WARNINGS
+  (none)
+
+RAW OCR TEXT
+----------------------------------------
+Amul
+Real Milk. Real Ice Cream.
+Nutritional Information
+Ingredients: Milk solids, sugar, emulsifier (471) and stabilizers (407, 466,
+415, 412), artificial flavouring substances (vanilla).
+10 servings per container
+Allergen Information: Contains milk.
+Serving size
+100 mL (54 g)
+Amount per 100 g
+% RDA"
+Marketed by: Gujarat Co-operative Milk Marketing Federation Ltd., Amul
+Energy (kcal)
+215
+6%
+Dairy Road, Anand, Gujarat- 388001, India. Website: www.amulicecream.in
+Total Fat (g)
+13.0
+10%
+Saturated Fat (g)
+7.8
+19%
+fssai
+ervi t nly
+Trans Fat (g)
+0.0
+0%
+Lic. No.10012021000071
+Cholesterol (mg)
+46
+Carbohydrate (g)
+20.8
+We appreciate your feedback.
+Total Sugars (g)
+20.8
+Contact our Customer Care Executive at:
+Added Sugars (g)
+15.0
+16%
+1800 258 3333 (Toll free) [6 AM - 9 PM]
+Protein (g)
+3.7
+customercare@amul.coop
+Sodium (mg)
+GCMMF Ltd.,Anand- 388001
+52
+1%
+"RDA stands for Recommended Dietary Allowance per serving
+Average values
+For MRP (incl. of all taxes), Date of Packaging (Pkd.) & Expiry (Exp.), Batch No. (BN), see body/lid.
+1P：151
+oo
+46.
+EN：TEBFOE
+PED:
+20/M06
+R
+ALWAYS KEEP FROZEN AT -18C OR BELOW. AFTER OPENING, USE THE
+Net Content:
+1L/540g
+CONTENT WITHIN 2 MONTHS OR EXPIRY DATE, WHICHEVER IS EARLIER

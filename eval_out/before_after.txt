@@ -1,0 +1,20 @@
+TRACE field-extraction accuracy - before vs after fixes
+8 real Indian retail labels (eval_images/), PaddleOCR + regex only, no Groq key.
+Same scorer + ground truth for both runs; only trace_pipeline.py differs.
+
+field              F1 before  F1 after    delta
+manufacturer            0.55      0.93    +0.39
+generic_name            0.00      0.75    +0.75
+net_quantity            0.29      0.67    +0.38
+mrp                     0.25      0.55    +0.30
+mfg_date                0.00      0.40    +0.40
+consumer_care           0.18      0.57    +0.39
+country_of_origin       0.00      0.50    +0.50
+fssai_license           0.22      0.67    +0.44
+
+OVERALL precision       0.54      0.83
+OVERALL recall          0.13      0.55
+OVERALL F1             0.206     0.659   +0.453
+tp / fp / fn          7/6/48   30/6/25
+
+REGRESSIONS: none - every field improved or held.

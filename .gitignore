@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pyc
+trace_history.csv
+trace_report.pdf
+logs.txt
+
+# backend runtime state
+backend/trace.db
+backend/trace.db-wal
+backend/trace.db-shm
+backend/uploads/
+
+# flutter
+mobile/.dart_tool/
+mobile/build/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies

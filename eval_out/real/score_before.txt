@@ -1,0 +1,12 @@
+FIELD-LEVEL SCORING vs ground_truth.json
+==============================================================
+field               tp  fp  fn       P     R    F1
+manufacturer         7   3   7    0.70  0.50  0.58
+generic_name         6   8   7    0.43  0.46  0.44
+net_quantity         6   0   6    1.00  0.50  0.67
+mrp                  6   1   7    0.86  0.46  0.60
+mfg_date             4   4   7    0.50  0.36  0.42
+consumer_care        1   3  10    0.25  0.09  0.13
+country_of_origin    2   0   4    1.00  0.33  0.50
+fssai_license       10   1   3    0.91  0.77  0.83
+OVERALL             42  20  51    0.68  0.45 0.542

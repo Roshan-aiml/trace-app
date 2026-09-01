@@ -1,0 +1,125 @@
+IMAGE: 05_tata_salt.pdf
+source file: C:\Users\Roshan Sivakumar\trace-app\eval_images\05_tata_salt.pdf
+run: 2026-08-30T14:35:00   llm=off
+
+quality_passed : True
+clarity        : 100.0%
+exposure       : 0.0%  (normal)
+size           : 1323x1600
+quality_reasons: []
+
+VERDICT        : REVIEW
+ocr_source     : paddleocr
+
+FIELDS
+  * manufacturer       [PASS    conf=0.58]  Tata Consumer Products Limited,Tata Cente, HEALTH, s Flor, 43, Jawaharlal Nehru 
+  * generic_name       [PASS    conf=0.7]  Salt
+  * net_quantity       [PASS    conf=0.58]  1 kg
+  * mrp                [PASS    conf=0.67]  32.00
+  * mfg_date           [REVIEW  conf=0.4]  MAY/28
+  * consumer_care      [REVIEW  conf=0.29]  EXEC, MDUCTSITD.,FIBLOSKARBUST, GALURU-560024, EMAIL-care@taraco, sumer.tc, PE/L
+    country_of_origin  [PASS    conf=0.0]  None
+    fssai_license      [PASS    conf=0.0]  None
+
+VIOLATIONS
+  (none)
+
+FONT WARNINGS
+  (none)
+
+RAW OCR TEXT
+----------------------------------------
+ALSO EXPLORE
+TATA SALT CRYSTAL
+华
+TATISalt
+U
+UANT
+NATURALLY SOURCED
+required for normal growt
+and brain function. It
+help
+SEA SALT WITH
+actyted inat tortime
+PURITY AND IODINE
+TATA
+velopment of
+Salt
+GUARANTEE
+CRYSTAL
+wwws requisiteount
+DID YOU KNOW?
+Tata Salt is made with Vacuum
+Evaporation technology that guarante
+TATA SALT LITE
+right amount of iodine in every pinch
+REDUCE SODIUM
+FOR'ACTIVE
+Mktby: Tata Consumer Products Limited,Tata Cente
+HEALTH
+s Flor, 43, Jawaharlal Nehru Road, Essat
+15% LESS
+Lic. No.100140310010
+TATA
+Kolkata-700 371.
+Sal
+SODIUMA
+Mfg by: Tata Chemicals Limited, P. O.
+LITE
+Wo
+Mithapur-361 345, Dis rici-Devbhumi Dwarka
+Gujarat. Lic.o. 1001202100035
+For Repaskind unit details and
+FSSAI License no. pleasè scan
+the QR code and see the first two
+Tata Salt providesoph grade purity, owing
+letters of the Batch No. printed.
+to the vacuum evaporation tecanology.
+WE
+ONSU
+TAILS: CUSTOMER CARE EXEC
+SS
+MDUCTSITD.,FIBLOSKARBUST
+Nutritional Information (Approximaes)
+GALURU-560024
+Serve size: 1g (Servings per pook: 1000)
+180010844
+EMAIL-care@taraco
+sumer.tc.
+Approx. values per 100 g [Per Seve (%) RDA]
+9571617161
+Energy 0 kcal [0], Protein 0 g, Carbohydrate 0g
+吃
+Total Sugars 0 g. Added Sugars 0 g10], To rat
+PE/LDPE
+O g[0], Sodium 38000 mg [19], lodine 2mg[14]
+Tors
+to disp
+for furt
+Ingredients: Edible Common Salt,
+04043901015>
+please visit pic
+tataconsomer.com
+Potassium lodate and Anticaking Agent (536)
+NET QUANTITY:
+1kg
+MRP 32.00 incl. of all taxes
+KEEP IN A COOL AND DRY PLACE.
+STORE AWAY FROM DIRECT REAT OR SUNLIGHT.
+Date of
+Tata Salt's
+JUN/26
+Your way to a cleaner environment
+TP(Phn) lamae100%Recycla
+Packaging:
+less waste, and energy savings.
+Use By:
+MAY/28
+bleve
+refined lodisecaalt
+BN:
+CN
+TATA SALT LITEL CHIS IS ONLY A BRAND
+NAME AND DOES NO REPRESENT ITS
+TRUENATURE
+PTTDCPCB Ren.No.PR-217CS9881K-22
